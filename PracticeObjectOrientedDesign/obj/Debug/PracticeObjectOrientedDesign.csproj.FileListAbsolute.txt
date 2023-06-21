@@ -1,0 +1,6 @@
+C:\Users\齋藤　廣騎\Desktop\0614課題\PracticeObjectOrientedDesign\PracticeObjectOrientedDesign\bin\Debug\PracticeObjectOrientedDesign.exe.config
+C:\Users\齋藤　廣騎\Desktop\0614課題\PracticeObjectOrientedDesign\PracticeObjectOrientedDesign\bin\Debug\PracticeObjectOrientedDesign.exe
+C:\Users\齋藤　廣騎\Desktop\0614課題\PracticeObjectOrientedDesign\PracticeObjectOrientedDesign\bin\Debug\PracticeObjectOrientedDesign.pdb
+C:\Users\齋藤　廣騎\Desktop\0614課題\PracticeObjectOrientedDesign\PracticeObjectOrientedDesign\obj\Debug\PracticeObjectOrientedDesign.csproj.CoreCompileInputs.cache
+C:\Users\齋藤　廣騎\Desktop\0614課題\PracticeObjectOrientedDesign\PracticeObjectOrientedDesign\obj\Debug\PracticeObjectOrientedDesign.exe
+C:\Users\齋藤　廣騎\Desktop\0614課題\PracticeObjectOrientedDesign\PracticeObjectOrientedDesign\obj\Debug\PracticeObjectOrientedDesign.pdb

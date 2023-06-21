@@ -11,6 +11,8 @@ namespace PracticeObjectOrientedDesign
         public ShapeType Type { get; set; }
         public double Radius { get; set; }
         public double SideLength { get; set; }
+        public double BottomLength { get; set; }
+        public double HeightToTop { get; set; }
         // ... 他の共通のプロパティやメソッド ...
 
         public double CalculateArea()
@@ -24,6 +26,10 @@ namespace PracticeObjectOrientedDesign
             else if (Type == ShapeType.Square)
             {
                 area = SideLength * SideLength;
+            }
+            else if (Type == ShapeType.Triangle)
+            {
+                area = BottomLength * HeightToTop / 2;
             }
             return area;
         }
